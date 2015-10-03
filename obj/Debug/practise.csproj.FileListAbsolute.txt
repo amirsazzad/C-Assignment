@@ -1,0 +1,6 @@
+c:\users\amirs\documents\visual studio 2015\Projects\practise\practise\bin\Debug\practise.exe.config
+c:\Users\amirs\documents\visual studio 2015\Projects\practise\practise\obj\Debug\practise.csprojResolveAssemblyReference.cache
+C:\Users\amirs\Documents\Visual Studio 2015\Projects\practise\practise\bin\Debug\practise.exe
+C:\Users\amirs\Documents\Visual Studio 2015\Projects\practise\practise\bin\Debug\practise.pdb
+C:\Users\amirs\Documents\Visual Studio 2015\Projects\practise\practise\obj\Debug\practise.exe
+C:\Users\amirs\Documents\Visual Studio 2015\Projects\practise\practise\obj\Debug\practise.pdb
